@@ -1,4 +1,4 @@
-# Hi, I'm Haziq Khan 👋
+# Hi, I'm Haziq 👋
 
 🎓 Computer Science Undergraduate
 
