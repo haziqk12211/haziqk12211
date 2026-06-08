@@ -1,37 +1,62 @@
-# Hi, I'm Haziq 👋
+# Hi, I'm Haziq Khan 👋
 
 🎓 Computer Science Undergraduate
 
-🤖 Interested in Artificial Intelligence, Machine Learning, Pyhton programming and Computer Vision.
+I'm a Computer Science student with interests in Artificial Intelligence, Machine Learning, Full-Stack Development, and Software Engineering. I enjoy building practical applications that combine intelligent systems, databases, APIs, and modern web technologies.
 
-💻 I enjoy building projects that combine software engineering with intelligent systems and continuously exploring new technologies.
+## 🚀 What I'm Working On
 
-## Technical Skills
+* Machine Learning and AI projects
+* Full-stack web applications
+* Database-driven systems
+* Open-source contributions
+* Computer Vision and Data Analysis
 
-**Languages**
+## 🛠 Technical Skills
+
+### Languages
 
 * Python
-* C/C++
+* C
+* C++
 * Java
-* Javascript
+* JavaScript
 * SQL
 
-**Tools & Frameworks**
+### AI & Data Science
 
-* Git & GitHub
+* Machine Learning
+* Data Analysis
 * NumPy
 * Pandas
 * Scikit-Learn
-* TensorFlow / PyTorch
-* 
+* TensorFlow / PyTorch (learning)
 
-## Goals
+### Web Development
 
-* Contribute to impactful open-source projects
-* Build practical AI applications
-* Pursue research in Machine Learning and Artificial Intelligence
+* HTML
+* CSS
+* JavaScript
+* React
+* TypeScript
+* REST APIs
 
-## Connect With Me
+### Databases
+
+* MySQL
+* Database Design
+* Query Optimization
+* Relational Database Management
+
+### Tools & Technologies
+
+* Git
+* GitHub
+* VS Code
+* Linux
+* API Integration
+
+## 📫 Connect With Me
 
 * LinkedIn: [https://www.linkedin.com/in/haziq-bin-zargham-738218413/]
 * Email: [haziqk12211@gmail.com]
