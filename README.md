@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Haziq 👋
 
-<!--
-**haziqk12211/haziqk12211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Undergraduate
 
-Here are some ideas to get you started:
+🤖 Interested in Artificial Intelligence, Machine Learning, Computer Vision, and Data Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I enjoy building projects that combine software engineering with intelligent systems and continuously exploring new technologies.
+
+## Currently Learning
+
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* Data Structures & Algorithms
+* Parallel Computing
+
+## Projects
+
+* AI and Machine Learning applications
+* Computer Vision systems
+* Academic and research projects
+* Open-source contributions
+
+## Technical Skills
+
+**Languages**
+
+* Python
+* C/C++
+* Java
+
+**Tools & Frameworks**
+
+* Git & GitHub
+* NumPy
+* Pandas
+* Scikit-Learn
+* TensorFlow / PyTorch
+
+## Goals
+
+* Contribute to impactful open-source projects
+* Build practical AI applications
+* Pursue research in Machine Learning and Artificial Intelligence
+
+## Connect With Me
+
+* LinkedIn: [Your LinkedIn]
+* Email: [Your Email]
+
+Thanks for visiting my profile!
