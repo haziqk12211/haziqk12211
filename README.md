@@ -10,7 +10,7 @@ I'm a Computer Science student with interests in Artificial Intelligence, Machin
 * Full-stack web applications
 * Database-driven systems
 * Open-source contributions
-* Computer Vision and Data Analysis
+* Computer Vision
 
 ## 🛠 Technical Skills
 
