@@ -2,24 +2,9 @@
 
 🎓 Computer Science Undergraduate
 
-🤖 Interested in Artificial Intelligence, Machine Learning, Computer Vision, and Data Science.
+🤖 Interested in Artificial Intelligence, Machine Learning, Pyhton programming and Computer Vision.
 
 💻 I enjoy building projects that combine software engineering with intelligent systems and continuously exploring new technologies.
-
-## Currently Learning
-
-* Machine Learning
-* Deep Learning
-* Computer Vision
-* Data Structures & Algorithms
-* Parallel Computing
-
-## Projects
-
-* AI and Machine Learning applications
-* Computer Vision systems
-* Academic and research projects
-* Open-source contributions
 
 ## Technical Skills
 
@@ -28,6 +13,8 @@
 * Python
 * C/C++
 * Java
+* Javascript
+* SQL
 
 **Tools & Frameworks**
 
@@ -36,6 +23,7 @@
 * Pandas
 * Scikit-Learn
 * TensorFlow / PyTorch
+* 
 
 ## Goals
 
@@ -45,7 +33,7 @@
 
 ## Connect With Me
 
-* LinkedIn: [Your LinkedIn]
-* Email: [Your Email]
+* LinkedIn: [https://www.linkedin.com/in/haziq-bin-zargham-738218413/]
+* Email: [haziqk12211@gmail.com]
 
 Thanks for visiting my profile!
